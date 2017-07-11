@@ -1,0 +1,7 @@
+<webscript>
+    <shortname>Set Permission</shortname>
+    <description>Set Permission using javascript API</description>
+    <url>/set/permission/?nodeRef={noderef}</url>
+    <format default=”html”/>
+    <authentication>admin</authentication>
+</webscript>
